@@ -47,7 +47,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.header}>Expo SQLite - ToDo</Text>
+      <Text style={styles.header}>ToDo List App</Text>
       <TextInput
         style={styles.todoInput}
         placeholder="Enter task to do"
